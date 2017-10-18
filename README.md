@@ -3,7 +3,7 @@ Screenshots Only
 
 Kansas State Global Campus hosted conference websites.
 
-Current website located at: http://global.k-state.edu/conferences/services/
+Current website located at: http://global.k-state.edu/conferences/
 
 ![acachair-conference](https://user-images.githubusercontent.com/5043065/31695827-7883b6b6-b372-11e7-8642-53ad35dbbab2.png)
 
